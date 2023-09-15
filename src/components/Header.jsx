@@ -37,8 +37,8 @@ const Header = ({ isMobile }) => {
             <div className="lg:hover:cursor-pointer hover:bg-[#73CDFF] py-2 px-4 hover:rounded-full duration-300">
               <a className="text-white">Projects</a>
             </div>
-            <div className="lg:hover:cursor-pointer hover:bg-[#73CDFF] py-2 px-4 hover:rounded-full duration-300">
-              <a className="text-white">CONTACT</a>
+            <div className="lg:hover:cursor-pointer hover:text-white hover:bg-[#73CDFF] bg-white py-2 px-4 hover:rounded-full duration-300 rounded-full">
+              <a className="text-black font-bold">CONTACT</a>
             </div>
           </div>
         )}
